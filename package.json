@@ -1,0 +1,11 @@
+{
+  "name": "jsonplaceholder-project",
+  "version": "1.0.0",
+  "description": "Projeto básico usando JSONPlaceholder",
+  "main": "app.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
